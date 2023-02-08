@@ -38,7 +38,7 @@ a simple calendar application that allows a user to save events for each hour of
 - This calendar is desktop and mobile compatible.
 
 ## Mock-Up
-![](assets/images/05-third-party-apis-homework-demo.gif)
+![](Assets/05-third-party-apis-homework-demo.gif)
 
 ## Contributor:
 Hannah Patterson ©2023 All Rights Reserved.
